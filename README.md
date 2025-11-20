@@ -32,7 +32,6 @@ project-root/
 │  ├─ src/
 │  │  ├─ pages/
 │  │  ├─ components/
-│  │  ├─ hooks/
 │  │  ├─ services/        # Axios API calls
 │  │  └─ App.jsx
 │  └─ tailwind.config.js
