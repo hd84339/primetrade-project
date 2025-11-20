@@ -145,9 +145,3 @@ return children;
 **Harsh Dubey** – Web Developer (HTML, CSS, JS, React, Node.js)
 
 ---
-
-If you want, I can also:
-✅ Format this README with colors & badges
-✅ Add installation GIF
-✅ Add API documentation table
-Just tell me! 🚀
